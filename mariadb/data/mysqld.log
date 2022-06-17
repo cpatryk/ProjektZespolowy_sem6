@@ -1,0 +1,718 @@
+2022-06-02 19:16:44 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-02 19:16:44 0 [Note] InnoDB: Uses event mutexes
+2022-06-02 19:16:44 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-02 19:16:44 0 [Note] InnoDB: Number of pools: 1
+2022-06-02 19:16:44 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-02 19:16:44 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-02 19:16:44 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-02 19:16:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-02 19:16:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-02 19:16:44 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-02 19:16:44 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-02 19:16:44 0 [Note] InnoDB: Waiting for purge to start
+2022-06-02 19:16:44 0 [Note] InnoDB: 10.4.24 started; log sequence number 60967; transaction id 20
+2022-06-02 19:16:44 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-02 19:16:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-02 19:16:44 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-02 19:16:44 0 [Note] InnoDB: Buffer pool(s) load completed at 220602 19:16:44
+2022-06-02 19:16:44 0 [Note] Reading of all Master_info entries succeeded
+2022-06-02 19:16:44 0 [Note] Added new Master_info '' to hash table
+2022-06-02 19:16:44 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-02 19:17:19 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe (initiated by: root[root] @ localhost [127.0.0.1]): Normal shutdown
+2022-06-02 19:17:19 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-06-02 19:17:19 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-06-02 19:17:19 0 [Note] InnoDB: Starting shutdown...
+2022-06-02 19:17:19 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-02 19:17:19 0 [Note] InnoDB: Buffer pool(s) dump completed at 220602 19:17:19
+2022-06-02 19:17:21 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-02 19:17:21 0 [Note] InnoDB: Shutdown completed; log sequence number 60976; transaction id 21
+2022-06-02 19:17:21 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: Shutdown complete
+
+2022-06-02 19:18:02 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-02 19:18:02 0 [Note] InnoDB: Uses event mutexes
+2022-06-02 19:18:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-02 19:18:02 0 [Note] InnoDB: Number of pools: 1
+2022-06-02 19:18:02 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-02 19:18:02 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-02 19:18:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-02 19:18:02 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-02 19:18:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-02 19:18:02 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-02 19:18:02 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-02 19:18:02 0 [Note] InnoDB: Waiting for purge to start
+2022-06-02 19:18:02 0 [Note] InnoDB: 10.4.24 started; log sequence number 60976; transaction id 20
+2022-06-02 19:18:02 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-02 19:18:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-02 19:18:02 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-02 19:18:02 0 [Note] InnoDB: Buffer pool(s) load completed at 220602 19:18:02
+2022-06-02 19:18:02 0 [Note] Reading of all Master_info entries succeeded
+2022-06-02 19:18:02 0 [Note] Added new Master_info '' to hash table
+2022-06-02 19:18:02 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-03 13:56:37 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 18% 47% 65% 91% 100% (0.0 seconds); tables to flush: 2 1 0
+ (0.0 seconds); 
+2022-06-03 13:56:37 0 [Note] mysqld.exe: Aria engine: recovery done
+2022-06-03 13:56:37 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-03 13:56:37 0 [Note] InnoDB: Uses event mutexes
+2022-06-03 13:56:37 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-03 13:56:37 0 [Note] InnoDB: Number of pools: 1
+2022-06-03 13:56:37 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-03 13:56:37 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-03 13:56:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-03 13:56:37 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=3865738
+2022-06-03 13:56:37 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-03 13:56:37 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-03 13:56:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-03 13:56:37 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-03 13:56:37 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-03 13:56:37 0 [Note] InnoDB: Waiting for purge to start
+2022-06-03 13:56:37 0 [Note] InnoDB: 10.4.24 started; log sequence number 3865747; transaction id 2800
+2022-06-03 13:56:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-03 13:56:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-03 13:56:37 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-03 13:56:37 0 [Note] InnoDB: Buffer pool(s) load completed at 220603 13:56:37
+2022-06-03 13:56:37 0 [Note] Reading of all Master_info entries succeeded
+2022-06-03 13:56:37 0 [Note] Added new Master_info '' to hash table
+2022-06-03 13:56:37 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-03 20:33:54 12 [Warning] Access denied for user 'pczubacki'@'localhost' (using password: YES)
+2022-06-04 16:39:20 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-04 16:39:20 0 [Note] InnoDB: Uses event mutexes
+2022-06-04 16:39:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-04 16:39:20 0 [Note] InnoDB: Number of pools: 1
+2022-06-04 16:39:20 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-04 16:39:20 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-04 16:39:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-04 16:39:20 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6063986
+2022-06-04 16:39:20 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-04 16:39:20 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-04 16:39:20 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-04 16:39:20 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-04 16:39:20 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-04 16:39:20 0 [Note] InnoDB: Waiting for purge to start
+2022-06-04 16:39:20 0 [Note] InnoDB: 10.4.24 started; log sequence number 6063995; transaction id 3835
+2022-06-04 16:39:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-04 16:39:20 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-04 16:39:20 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-04 16:39:20 0 [Note] InnoDB: Buffer pool(s) load completed at 220604 16:39:20
+2022-06-04 16:39:20 0 [Note] Reading of all Master_info entries succeeded
+2022-06-04 16:39:20 0 [Note] Added new Master_info '' to hash table
+2022-06-04 16:39:20 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-05 17:21:44 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-05 17:21:44 0 [Note] InnoDB: Uses event mutexes
+2022-06-05 17:21:44 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-05 17:21:44 0 [Note] InnoDB: Number of pools: 1
+2022-06-05 17:21:44 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-05 17:21:44 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-05 17:21:44 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-05 17:21:44 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064004
+2022-06-05 17:21:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-05 17:21:44 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-05 17:21:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-05 17:21:44 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-05 17:21:44 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-05 17:21:44 0 [Note] InnoDB: Waiting for purge to start
+2022-06-05 17:21:44 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064013; transaction id 3835
+2022-06-05 17:21:44 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-05 17:21:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-05 17:21:44 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-05 17:21:44 0 [Note] InnoDB: Buffer pool(s) load completed at 220605 17:21:44
+2022-06-05 17:21:44 0 [Note] Reading of all Master_info entries succeeded
+2022-06-05 17:21:44 0 [Note] Added new Master_info '' to hash table
+2022-06-05 17:21:44 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-05 17:59:45 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-05 17:59:45 0 [Note] InnoDB: Uses event mutexes
+2022-06-05 17:59:45 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-05 17:59:45 0 [Note] InnoDB: Number of pools: 1
+2022-06-05 17:59:45 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-05 17:59:45 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-05 17:59:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-05 17:59:45 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064022
+2022-06-05 17:59:45 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-05 17:59:45 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-05 17:59:45 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-05 17:59:45 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-05 17:59:45 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-05 17:59:45 0 [Note] InnoDB: Waiting for purge to start
+2022-06-05 17:59:45 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064031; transaction id 3835
+2022-06-05 17:59:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-05 17:59:45 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-05 17:59:45 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-05 17:59:45 0 [Note] InnoDB: Buffer pool(s) load completed at 220605 17:59:45
+2022-06-05 17:59:45 0 [Note] Reading of all Master_info entries succeeded
+2022-06-05 17:59:45 0 [Note] Added new Master_info '' to hash table
+2022-06-05 17:59:45 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-05 19:41:43 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-05 19:41:43 0 [Note] InnoDB: Uses event mutexes
+2022-06-05 19:41:43 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-05 19:41:43 0 [Note] InnoDB: Number of pools: 1
+2022-06-05 19:41:43 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-05 19:41:43 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-05 19:41:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-05 19:41:43 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064040
+2022-06-05 19:41:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-05 19:41:44 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-05 19:41:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-05 19:41:44 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-05 19:41:44 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-05 19:41:44 0 [Note] InnoDB: Waiting for purge to start
+2022-06-05 19:41:44 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064049; transaction id 3835
+2022-06-05 19:41:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-05 19:41:44 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-05 19:41:44 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-05 19:41:44 0 [Note] InnoDB: Buffer pool(s) load completed at 220605 19:41:44
+2022-06-05 19:41:44 0 [Note] Reading of all Master_info entries succeeded
+2022-06-05 19:41:44 0 [Note] Added new Master_info '' to hash table
+2022-06-05 19:41:44 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-05 20:10:39 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-05 20:10:39 0 [Note] InnoDB: Uses event mutexes
+2022-06-05 20:10:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-05 20:10:39 0 [Note] InnoDB: Number of pools: 1
+2022-06-05 20:10:39 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-05 20:10:39 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-05 20:10:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-05 20:10:39 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064058
+2022-06-05 20:10:40 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-05 20:10:40 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-05 20:10:40 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-05 20:10:40 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-05 20:10:40 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-05 20:10:40 0 [Note] InnoDB: Waiting for purge to start
+2022-06-05 20:10:40 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064067; transaction id 3835
+2022-06-05 20:10:40 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-05 20:10:40 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-05 20:10:40 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-05 20:10:40 0 [Note] InnoDB: Buffer pool(s) load completed at 220605 20:10:40
+2022-06-05 20:10:40 0 [Note] Reading of all Master_info entries succeeded
+2022-06-05 20:10:40 0 [Note] Added new Master_info '' to hash table
+2022-06-05 20:10:40 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-08 19:41:38 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-08 19:41:38 0 [Note] InnoDB: Uses event mutexes
+2022-06-08 19:41:38 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-08 19:41:38 0 [Note] InnoDB: Number of pools: 1
+2022-06-08 19:41:38 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-08 19:41:38 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-08 19:41:38 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-08 19:41:38 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064076
+2022-06-08 19:41:38 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-08 19:41:38 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-08 19:41:38 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-08 19:41:38 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-08 19:41:38 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-08 19:41:38 0 [Note] InnoDB: Waiting for purge to start
+2022-06-08 19:41:39 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064085; transaction id 3835
+2022-06-08 19:41:39 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-08 19:41:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-08 19:41:39 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-08 19:41:39 0 [Note] InnoDB: Buffer pool(s) load completed at 220608 19:41:39
+2022-06-08 19:41:39 0 [Note] Reading of all Master_info entries succeeded
+2022-06-08 19:41:39 0 [Note] Added new Master_info '' to hash table
+2022-06-08 19:41:39 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-08 21:21:50 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-08 21:21:50 0 [Note] InnoDB: Uses event mutexes
+2022-06-08 21:21:50 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-08 21:21:50 0 [Note] InnoDB: Number of pools: 1
+2022-06-08 21:21:50 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-08 21:21:50 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-08 21:21:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-08 21:21:50 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064094
+2022-06-08 21:21:50 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-08 21:21:50 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-08 21:21:50 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-08 21:21:50 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-08 21:21:50 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-08 21:21:50 0 [Note] InnoDB: Waiting for purge to start
+2022-06-08 21:21:50 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064103; transaction id 3835
+2022-06-08 21:21:50 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-08 21:21:50 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-08 21:21:50 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-08 21:21:50 0 [Note] InnoDB: Buffer pool(s) load completed at 220608 21:21:50
+2022-06-08 21:21:50 0 [Note] Reading of all Master_info entries succeeded
+2022-06-08 21:21:50 0 [Note] Added new Master_info '' to hash table
+2022-06-08 21:21:50 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-08 23:58:15 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-06-08 23:58:15 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-06-08 23:58:15 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-06-08 23:58:15 0 [Note] InnoDB: Starting shutdown...
+2022-06-08 23:58:15 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-08 23:58:15 0 [Note] InnoDB: Buffer pool(s) dump completed at 220608 23:58:15
+2022-06-08 23:58:16 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-08 23:58:16 0 [Note] InnoDB: Shutdown completed; log sequence number 6064121; transaction id 3836
+2022-06-08 23:58:16 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: Shutdown complete
+
+2022-06-08 23:58:46 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-08 23:58:46 0 [Note] InnoDB: Uses event mutexes
+2022-06-08 23:58:46 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-08 23:58:46 0 [Note] InnoDB: Number of pools: 1
+2022-06-08 23:58:46 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-08 23:58:46 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-08 23:58:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-08 23:58:46 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-08 23:58:46 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-08 23:58:46 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-08 23:58:46 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-08 23:58:46 0 [Note] InnoDB: Waiting for purge to start
+2022-06-08 23:58:46 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064121; transaction id 3835
+2022-06-08 23:58:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-08 23:58:46 0 [Note] InnoDB: Buffer pool(s) load completed at 220608 23:58:46
+2022-06-08 23:58:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-08 23:58:46 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-08 23:58:46 0 [Note] Reading of all Master_info entries succeeded
+2022-06-08 23:58:46 0 [Note] Added new Master_info '' to hash table
+2022-06-08 23:58:46 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-09  8:31:32 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-09  8:31:32 0 [Note] InnoDB: Uses event mutexes
+2022-06-09  8:31:32 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-09  8:31:32 0 [Note] InnoDB: Number of pools: 1
+2022-06-09  8:31:32 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-09  8:31:32 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-09  8:31:32 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-09  8:31:32 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064146
+2022-06-09  8:31:32 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-09  8:31:32 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-09  8:31:32 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-09  8:31:32 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-09  8:31:32 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-09  8:31:32 0 [Note] InnoDB: Waiting for purge to start
+2022-06-09  8:31:32 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064155; transaction id 3835
+2022-06-09  8:31:32 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-09  8:31:32 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-09  8:31:32 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-09  8:31:32 0 [Note] InnoDB: Buffer pool(s) load completed at 220609  8:31:32
+2022-06-09  8:31:32 0 [Note] Reading of all Master_info entries succeeded
+2022-06-09  8:31:32 0 [Note] Added new Master_info '' to hash table
+2022-06-09  8:31:32 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-09 11:21:00 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-09 11:21:00 0 [Note] InnoDB: Uses event mutexes
+2022-06-09 11:21:00 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-09 11:21:00 0 [Note] InnoDB: Number of pools: 1
+2022-06-09 11:21:00 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-09 11:21:00 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-09 11:21:00 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-09 11:21:00 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064164
+2022-06-09 11:21:00 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-09 11:21:00 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-09 11:21:00 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-09 11:21:00 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-09 11:21:00 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-09 11:21:00 0 [Note] InnoDB: Waiting for purge to start
+2022-06-09 11:21:00 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064173; transaction id 3835
+2022-06-09 11:21:00 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-09 11:21:00 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-09 11:21:00 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-09 11:21:00 0 [Note] InnoDB: Buffer pool(s) load completed at 220609 11:21:00
+2022-06-09 11:21:00 0 [Note] Reading of all Master_info entries succeeded
+2022-06-09 11:21:00 0 [Note] Added new Master_info '' to hash table
+2022-06-09 11:21:00 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-09 16:36:10 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-09 16:36:10 0 [Note] InnoDB: Uses event mutexes
+2022-06-09 16:36:10 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-09 16:36:10 0 [Note] InnoDB: Number of pools: 1
+2022-06-09 16:36:10 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-09 16:36:10 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-09 16:36:10 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-09 16:36:10 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064182
+2022-06-09 16:36:10 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-09 16:36:10 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-09 16:36:10 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-09 16:36:10 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-09 16:36:10 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-09 16:36:10 0 [Note] InnoDB: Waiting for purge to start
+2022-06-09 16:36:10 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064191; transaction id 3835
+2022-06-09 16:36:10 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-09 16:36:10 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-09 16:36:10 0 [Note] InnoDB: Buffer pool(s) load completed at 220609 16:36:10
+2022-06-09 16:36:10 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-09 16:36:10 0 [Note] Reading of all Master_info entries succeeded
+2022-06-09 16:36:10 0 [Note] Added new Master_info '' to hash table
+2022-06-09 16:36:10 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-10  9:02:29 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-10  9:02:29 0 [Note] InnoDB: Uses event mutexes
+2022-06-10  9:02:29 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-10  9:02:29 0 [Note] InnoDB: Number of pools: 1
+2022-06-10  9:02:29 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-10  9:02:29 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-10  9:02:29 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-10  9:02:29 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064200
+2022-06-10  9:02:29 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-10  9:02:29 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-10  9:02:29 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-10  9:02:29 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-10  9:02:29 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-10  9:02:29 0 [Note] InnoDB: Waiting for purge to start
+2022-06-10  9:02:29 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064209; transaction id 3835
+2022-06-10  9:02:29 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-10  9:02:29 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-10  9:02:29 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-10  9:02:29 0 [Note] InnoDB: Buffer pool(s) load completed at 220610  9:02:29
+2022-06-10  9:02:29 0 [Note] Reading of all Master_info entries succeeded
+2022-06-10  9:02:29 0 [Note] Added new Master_info '' to hash table
+2022-06-10  9:02:29 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-10 17:55:22 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-10 17:55:22 0 [Note] InnoDB: Uses event mutexes
+2022-06-10 17:55:22 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-10 17:55:22 0 [Note] InnoDB: Number of pools: 1
+2022-06-10 17:55:22 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-10 17:55:22 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-10 17:55:22 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-10 17:55:22 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064218
+2022-06-10 17:55:22 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-10 17:55:22 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-10 17:55:22 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-10 17:55:22 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-10 17:55:22 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-10 17:55:22 0 [Note] InnoDB: Waiting for purge to start
+2022-06-10 17:55:22 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064227; transaction id 3835
+2022-06-10 17:55:22 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-10 17:55:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-10 17:55:22 0 [Note] InnoDB: Buffer pool(s) load completed at 220610 17:55:22
+2022-06-10 17:55:22 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-10 17:55:22 0 [Note] Reading of all Master_info entries succeeded
+2022-06-10 17:55:22 0 [Note] Added new Master_info '' to hash table
+2022-06-10 17:55:22 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-10 18:54:41 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-10 18:54:41 0 [Note] InnoDB: Uses event mutexes
+2022-06-10 18:54:41 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-10 18:54:41 0 [Note] InnoDB: Number of pools: 1
+2022-06-10 18:54:41 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-10 18:54:41 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-10 18:54:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-10 18:54:41 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064236
+2022-06-10 18:54:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-10 18:54:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-10 18:54:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-10 18:54:41 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-10 18:54:41 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-10 18:54:41 0 [Note] InnoDB: Waiting for purge to start
+2022-06-10 18:54:41 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064245; transaction id 3835
+2022-06-10 18:54:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-10 18:54:41 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-10 18:54:41 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-10 18:54:41 0 [Note] InnoDB: Buffer pool(s) load completed at 220610 18:54:41
+2022-06-10 18:54:41 0 [Note] Reading of all Master_info entries succeeded
+2022-06-10 18:54:41 0 [Note] Added new Master_info '' to hash table
+2022-06-10 18:54:41 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-11 12:22:46 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-11 12:22:46 0 [Note] InnoDB: Uses event mutexes
+2022-06-11 12:22:46 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-11 12:22:46 0 [Note] InnoDB: Number of pools: 1
+2022-06-11 12:22:46 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-11 12:22:46 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-11 12:22:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-11 12:22:46 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064254
+2022-06-11 12:22:46 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-11 12:22:46 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-11 12:22:46 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-11 12:22:46 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-11 12:22:46 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-11 12:22:46 0 [Note] InnoDB: Waiting for purge to start
+2022-06-11 12:22:46 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064263; transaction id 3835
+2022-06-11 12:22:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-11 12:22:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-11 12:22:46 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-11 12:22:46 0 [Note] InnoDB: Buffer pool(s) load completed at 220611 12:22:46
+2022-06-11 12:22:46 0 [Note] Reading of all Master_info entries succeeded
+2022-06-11 12:22:46 0 [Note] Added new Master_info '' to hash table
+2022-06-11 12:22:46 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-12 12:20:33 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-12 12:20:33 0 [Note] InnoDB: Uses event mutexes
+2022-06-12 12:20:33 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-12 12:20:33 0 [Note] InnoDB: Number of pools: 1
+2022-06-12 12:20:33 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-12 12:20:33 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-12 12:20:33 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-12 12:20:33 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064272
+2022-06-12 12:20:33 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-12 12:20:33 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-12 12:20:33 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-12 12:20:33 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-12 12:20:33 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-12 12:20:33 0 [Note] InnoDB: Waiting for purge to start
+2022-06-12 12:20:33 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064281; transaction id 3835
+2022-06-12 12:20:33 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-12 12:20:33 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-12 12:20:33 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-12 12:20:33 0 [Note] InnoDB: Buffer pool(s) load completed at 220612 12:20:33
+2022-06-12 12:20:33 0 [Note] Reading of all Master_info entries succeeded
+2022-06-12 12:20:33 0 [Note] Added new Master_info '' to hash table
+2022-06-12 12:20:33 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-13  9:01:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-13  9:01:53 0 [Note] InnoDB: Uses event mutexes
+2022-06-13  9:01:53 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-13  9:01:53 0 [Note] InnoDB: Number of pools: 1
+2022-06-13  9:01:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-13  9:01:53 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-13  9:01:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-13  9:01:53 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064290
+2022-06-13  9:01:54 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-13  9:01:54 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-13  9:01:54 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-13  9:01:54 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-13  9:01:54 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-13  9:01:54 0 [Note] InnoDB: Waiting for purge to start
+2022-06-13  9:01:54 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064299; transaction id 3835
+2022-06-13  9:01:54 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-13  9:01:54 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-13  9:01:54 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-13  9:01:54 0 [Note] InnoDB: Buffer pool(s) load completed at 220613  9:01:54
+2022-06-13  9:01:54 0 [Note] Reading of all Master_info entries succeeded
+2022-06-13  9:01:54 0 [Note] Added new Master_info '' to hash table
+2022-06-13  9:01:54 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-13 21:41:42 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-13 21:41:42 0 [Note] InnoDB: Uses event mutexes
+2022-06-13 21:41:42 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-13 21:41:42 0 [Note] InnoDB: Number of pools: 1
+2022-06-13 21:41:42 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-13 21:41:42 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-13 21:41:42 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-13 21:41:42 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064308
+2022-06-13 21:41:42 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-13 21:41:42 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-13 21:41:42 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-13 21:41:42 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-13 21:41:42 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-13 21:41:42 0 [Note] InnoDB: Waiting for purge to start
+2022-06-13 21:41:42 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064317; transaction id 3835
+2022-06-13 21:41:42 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-13 21:41:42 0 [Note] InnoDB: Buffer pool(s) load completed at 220613 21:41:42
+2022-06-13 21:41:42 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-13 21:41:42 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-13 21:41:42 0 [Note] Reading of all Master_info entries succeeded
+2022-06-13 21:41:42 0 [Note] Added new Master_info '' to hash table
+2022-06-13 21:41:42 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-13 22:58:08 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-13 22:58:08 0 [Note] InnoDB: Uses event mutexes
+2022-06-13 22:58:08 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-13 22:58:08 0 [Note] InnoDB: Number of pools: 1
+2022-06-13 22:58:08 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-13 22:58:08 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-13 22:58:08 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-13 22:58:08 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064326
+2022-06-13 22:58:08 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-13 22:58:08 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-13 22:58:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-13 22:58:08 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-13 22:58:08 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-13 22:58:08 0 [Note] InnoDB: Waiting for purge to start
+2022-06-13 22:58:08 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064335; transaction id 3835
+2022-06-13 22:58:08 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-13 22:58:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-13 22:58:08 0 [Note] InnoDB: Buffer pool(s) load completed at 220613 22:58:08
+2022-06-13 22:58:08 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-13 22:58:08 0 [Note] Reading of all Master_info entries succeeded
+2022-06-13 22:58:08 0 [Note] Added new Master_info '' to hash table
+2022-06-13 22:58:08 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-13 23:11:14 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-13 23:11:14 0 [Note] InnoDB: Uses event mutexes
+2022-06-13 23:11:14 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-13 23:11:14 0 [Note] InnoDB: Number of pools: 1
+2022-06-13 23:11:14 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-13 23:11:14 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-13 23:11:14 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-13 23:11:14 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064344
+2022-06-13 23:11:15 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-13 23:11:15 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-13 23:11:15 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-13 23:11:15 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-13 23:11:15 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-13 23:11:15 0 [Note] InnoDB: Waiting for purge to start
+2022-06-13 23:11:15 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064353; transaction id 3835
+2022-06-13 23:11:15 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-13 23:11:15 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-13 23:11:15 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-13 23:11:15 0 [Note] InnoDB: Buffer pool(s) load completed at 220613 23:11:15
+2022-06-13 23:11:15 0 [Note] Reading of all Master_info entries succeeded
+2022-06-13 23:11:15 0 [Note] Added new Master_info '' to hash table
+2022-06-13 23:11:15 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-15  8:07:46 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-15  8:07:46 0 [Note] InnoDB: Uses event mutexes
+2022-06-15  8:07:46 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-15  8:07:46 0 [Note] InnoDB: Number of pools: 1
+2022-06-15  8:07:46 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-15  8:07:46 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-15  8:07:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-15  8:07:46 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064362
+2022-06-15  8:07:46 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-15  8:07:46 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-15  8:07:46 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-15  8:07:46 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-15  8:07:46 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-15  8:07:46 0 [Note] InnoDB: Waiting for purge to start
+2022-06-15  8:07:46 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064371; transaction id 3835
+2022-06-15  8:07:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-15  8:07:46 0 [Note] InnoDB: Buffer pool(s) load completed at 220615  8:07:46
+2022-06-15  8:07:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-15  8:07:46 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-15  8:07:46 0 [Note] Reading of all Master_info entries succeeded
+2022-06-15  8:07:46 0 [Note] Added new Master_info '' to hash table
+2022-06-15  8:07:46 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-15 17:25:50 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-15 17:25:50 0 [Note] InnoDB: Uses event mutexes
+2022-06-15 17:25:50 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-15 17:25:50 0 [Note] InnoDB: Number of pools: 1
+2022-06-15 17:25:50 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-15 17:25:50 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-15 17:25:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-15 17:25:50 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064380
+2022-06-15 17:25:51 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-15 17:25:51 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-15 17:25:51 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-15 17:25:51 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-15 17:25:51 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-15 17:25:51 0 [Note] InnoDB: Waiting for purge to start
+2022-06-15 17:25:51 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064389; transaction id 3835
+2022-06-15 17:25:51 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-15 17:25:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-15 17:25:51 0 [Note] InnoDB: Buffer pool(s) load completed at 220615 17:25:51
+2022-06-15 17:25:51 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-15 17:25:51 0 [Note] Reading of all Master_info entries succeeded
+2022-06-15 17:25:51 0 [Note] Added new Master_info '' to hash table
+2022-06-15 17:25:51 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-15 18:26:59 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-15 18:26:59 0 [Note] InnoDB: Uses event mutexes
+2022-06-15 18:26:59 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-15 18:26:59 0 [Note] InnoDB: Number of pools: 1
+2022-06-15 18:26:59 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-15 18:26:59 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-15 18:26:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-15 18:26:59 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6064398
+2022-06-15 18:27:00 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-15 18:27:00 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-15 18:27:00 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-15 18:27:00 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-15 18:27:00 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-15 18:27:00 0 [Note] InnoDB: Waiting for purge to start
+2022-06-15 18:27:00 0 [Note] InnoDB: 10.4.24 started; log sequence number 6064407; transaction id 3835
+2022-06-15 18:27:00 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-15 18:27:00 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-15 18:27:00 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-15 18:27:00 0 [Note] InnoDB: Buffer pool(s) load completed at 220615 18:27:00
+2022-06-15 18:27:00 0 [Note] Reading of all Master_info entries succeeded
+2022-06-15 18:27:00 0 [Note] Added new Master_info '' to hash table
+2022-06-15 18:27:00 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-17  2:53:43 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-06-17  2:53:43 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-06-17  2:53:43 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-06-17  2:53:44 0 [Note] InnoDB: Starting shutdown...
+2022-06-17  2:53:44 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-17  2:53:44 0 [Note] InnoDB: Buffer pool(s) dump completed at 220617  2:53:44
+2022-06-17  2:53:44 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-17  2:53:44 0 [Note] InnoDB: Shutdown completed; log sequence number 6327707; transaction id 4006
+2022-06-17  2:53:44 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: Shutdown complete
+
+2022-06-17  2:54:17 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-17  2:54:17 0 [Note] InnoDB: Uses event mutexes
+2022-06-17  2:54:17 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17  2:54:17 0 [Note] InnoDB: Number of pools: 1
+2022-06-17  2:54:17 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-17  2:54:17 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-17  2:54:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17  2:54:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-17  2:54:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17  2:54:17 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17  2:54:17 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-17  2:54:17 0 [Note] InnoDB: Waiting for purge to start
+2022-06-17  2:54:17 0 [Note] InnoDB: 10.4.24 started; log sequence number 6327707; transaction id 4006
+2022-06-17  2:54:17 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-17  2:54:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17  2:54:17 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-17  2:54:17 0 [Note] InnoDB: Buffer pool(s) load completed at 220617  2:54:17
+2022-06-17  2:54:18 0 [Note] Reading of all Master_info entries succeeded
+2022-06-17  2:54:18 0 [Note] Added new Master_info '' to hash table
+2022-06-17  2:54:18 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-17 16:08:16 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-17 16:08:16 0 [Note] InnoDB: Uses event mutexes
+2022-06-17 16:08:16 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 16:08:16 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 16:08:17 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-17 16:08:17 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-17 16:08:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 16:08:17 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=9996057
+2022-06-17 16:08:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-17 16:08:17 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-17 16:08:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 16:08:17 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 16:08:17 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-17 16:08:17 0 [Note] InnoDB: Waiting for purge to start
+2022-06-17 16:08:17 0 [Note] InnoDB: 10.4.24 started; log sequence number 9996066; transaction id 5761
+2022-06-17 16:08:17 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-17 16:08:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 16:08:17 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-17 16:08:17 0 [Note] Reading of all Master_info entries succeeded
+2022-06-17 16:08:17 0 [Note] Added new Master_info '' to hash table
+2022-06-17 16:08:17 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-17 16:08:17 0 [Note] InnoDB: Buffer pool(s) load completed at 220617 16:08:17
+2022-06-17 16:30:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-17 16:30:25 0 [Note] InnoDB: Uses event mutexes
+2022-06-17 16:30:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 16:30:25 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 16:30:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-17 16:30:25 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-17 16:30:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 16:30:25 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10304197
+2022-06-17 16:30:25 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-17 16:30:25 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-17 16:30:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 16:30:25 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 16:30:25 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-17 16:30:25 0 [Note] InnoDB: Waiting for purge to start
+2022-06-17 16:30:25 0 [Note] InnoDB: 10.4.24 started; log sequence number 10304206; transaction id 5807
+2022-06-17 16:30:25 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-17 16:30:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 16:30:25 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-17 16:30:25 0 [Note] Reading of all Master_info entries succeeded
+2022-06-17 16:30:25 0 [Note] Added new Master_info '' to hash table
+2022-06-17 16:30:25 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-17 16:30:25 0 [Note] InnoDB: Buffer pool(s) load completed at 220617 16:30:25
+2022-06-17 16:56:24 114 [Warning] Aborted connection 114 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-06-17 21:34:00 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-06-17 21:34:00 0 [Note] InnoDB: Uses event mutexes
+2022-06-17 21:34:00 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 21:34:00 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 21:34:00 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-06-17 21:34:00 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-06-17 21:34:00 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 21:34:00 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=13425884
+2022-06-17 21:34:00 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-06-17 21:34:00 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-06-17 21:34:00 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 21:34:00 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 21:34:00 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-06-17 21:34:00 0 [Note] InnoDB: Waiting for purge to start
+2022-06-17 21:34:00 0 [Note] InnoDB: 10.4.24 started; log sequence number 13425893; transaction id 8053
+2022-06-17 21:34:00 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 21:34:00 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Wordpress\mariadb\data\ib_buffer_pool
+2022-06-17 21:34:00 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-06-17 21:34:01 0 [Note] Reading of all Master_info entries succeeded
+2022-06-17 21:34:01 0 [Note] Added new Master_info '' to hash table
+2022-06-17 21:34:01 0 [Note] C:\Users\Admin\Desktop\WORDPR~1\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.24-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-17 21:34:01 0 [Note] InnoDB: Buffer pool(s) load completed at 220617 21:34:01
